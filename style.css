@@ -1,0 +1,21 @@
+body {
+    background-size: cover;
+    background-image: url("image/Kvai logo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: left;
+    color: rgb(2, 255, 116);
+}
+
+ul,ol {
+    font-size: x-large;
+    border-style: groove;
+    border-color: black;
+}
+
+p,li {
+    font-size: large;
+    border-style: groove;
+    border-color: black;
+}
